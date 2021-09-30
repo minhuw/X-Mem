@@ -35,6 +35,7 @@
 //Libraries
 #include <cstdint>
 #include <cstddef>
+#include <limits>
 
 #ifdef _WIN32
 #include <windows.h>
